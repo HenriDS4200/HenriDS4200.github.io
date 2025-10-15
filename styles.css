@@ -116,7 +116,7 @@ h1, h2, h3, h4 {
 
 .about-text p {
     margin-bottom: 1.2rem;
-    text-align: justify;
+    text-align: left;
     color: #555;
 }
 
@@ -230,7 +230,7 @@ h1, h2, h3, h4 {
 
 .project-content p {
     margin-bottom: 1.5rem;
-    text-align: justify;
+    text-align: left;
     color: #555;
     line-height: 1.8;
 }
